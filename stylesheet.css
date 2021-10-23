@@ -191,6 +191,7 @@ header .cases{
     background-attachment: fixed;
     display: table;
     overflow:auto;
+    background-repeat: none;
 }
 .center {
     display: table-cell;
