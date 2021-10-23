@@ -190,7 +190,7 @@ header .cases{
     background-size: 100%; 
     background-attachment: fixed;
     display: table;
-    overflow:hidden;
+    overflow:visible;
 }
 .center {
     display: table-cell;
