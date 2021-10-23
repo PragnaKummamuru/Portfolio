@@ -183,7 +183,7 @@ header .cases{
 
 .index-banner {
     width: 100%;
-    height: 100%;
+    height: calc(100vh-80px);
     background-image: url('iare.jpg');
     background-repeat: no-repeat 
     background-position: center;
@@ -213,7 +213,7 @@ header .cases{
     font-weight: 800;
     font-style: italic;
     line-height: 30px;
-    color: #CCCC00;
+    color: #0A1172;
     text-align:center;
 }
 
