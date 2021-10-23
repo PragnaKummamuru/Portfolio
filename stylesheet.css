@@ -183,11 +183,11 @@ header .cases{
 
 .index-banner {
     width: 100%;
-    height: calc(100vh - 100px);
+    height: 100%;
     background-image: url('iare.jpg');
     background-repeat: no-repeat 
     background-position: center;
-    background-size: cover; 
+    background-size: 100%; 
     background-attachment: fixed;
     display: table;
 }
