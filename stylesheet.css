@@ -184,7 +184,7 @@ header .cases{
 .index-banner {
     width: 100%;
     height: calc(100vh - 100px);
-    background-image: url('root folder/images/iare.jpg');
+    background-image: url('iare.jpg');
     background-repeat: no-repeat 
     background-position: center;
     background-size: cover; 
